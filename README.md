@@ -1,3 +1,3 @@
 # GeometryTestQuest
-###Start
-###SimpleGeometry -> SimpleGeometry.sln
+Start
+SimpleGeometry -> SimpleGeometry.sln
