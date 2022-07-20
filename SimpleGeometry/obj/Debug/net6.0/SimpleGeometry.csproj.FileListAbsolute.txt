@@ -1,0 +1,15 @@
+D:\WorkingPrograms\VisusalStudio22\repos\SimpleGeometry\bin\Debug\net6.0\SimpleGeometry.exe
+D:\WorkingPrograms\VisusalStudio22\repos\SimpleGeometry\bin\Debug\net6.0\SimpleGeometry.deps.json
+D:\WorkingPrograms\VisusalStudio22\repos\SimpleGeometry\bin\Debug\net6.0\SimpleGeometry.runtimeconfig.json
+D:\WorkingPrograms\VisusalStudio22\repos\SimpleGeometry\bin\Debug\net6.0\SimpleGeometry.dll
+D:\WorkingPrograms\VisusalStudio22\repos\SimpleGeometry\bin\Debug\net6.0\SimpleGeometry.pdb
+D:\WorkingPrograms\VisusalStudio22\repos\SimpleGeometry\obj\Debug\net6.0\SimpleGeometry.csproj.AssemblyReference.cache
+D:\WorkingPrograms\VisusalStudio22\repos\SimpleGeometry\obj\Debug\net6.0\SimpleGeometry.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkingPrograms\VisusalStudio22\repos\SimpleGeometry\obj\Debug\net6.0\SimpleGeometry.AssemblyInfoInputs.cache
+D:\WorkingPrograms\VisusalStudio22\repos\SimpleGeometry\obj\Debug\net6.0\SimpleGeometry.AssemblyInfo.cs
+D:\WorkingPrograms\VisusalStudio22\repos\SimpleGeometry\obj\Debug\net6.0\SimpleGeometry.csproj.CoreCompileInputs.cache
+D:\WorkingPrograms\VisusalStudio22\repos\SimpleGeometry\obj\Debug\net6.0\SimpleGeometry.dll
+D:\WorkingPrograms\VisusalStudio22\repos\SimpleGeometry\obj\Debug\net6.0\refint\SimpleGeometry.dll
+D:\WorkingPrograms\VisusalStudio22\repos\SimpleGeometry\obj\Debug\net6.0\SimpleGeometry.pdb
+D:\WorkingPrograms\VisusalStudio22\repos\SimpleGeometry\obj\Debug\net6.0\SimpleGeometry.genruntimeconfig.cache
+D:\WorkingPrograms\VisusalStudio22\repos\SimpleGeometry\obj\Debug\net6.0\ref\SimpleGeometry.dll
